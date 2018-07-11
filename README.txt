@@ -1,32 +1,11 @@
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+New layout
 
+Issues:
+1. We need transparent png logos of all the clubs
+2. The clubs which do not have a website, maybe we can add the link to the facebook or remove the learn more button
+3. There is a div at the end of each page similar to letter by technical secretary on the home page which can be removed or something inspiring or something else can be added.
+4. At the top of each page there should be a general discription with something motivating the top box or that needs to be removed
 
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Possibilities:
+1. If we figure out a backend we can add a form as well where people can post queries or messages
+2. If a team/club wants to elaborate on their project or are looking for more space we can give them a new webpage where they can write everything they want and link it to the original tiles we have already
