@@ -2142,12 +2142,14 @@ input, select, textarea {
 		align-items:center;
   		justify-content:center;
 		display:flex;
+		min-height: 280px;
 
 	}
 
 		.image img {
 			display: block;
 			max-height: 260px; 
+
 			/*height: 100%;*/
 		}
 
