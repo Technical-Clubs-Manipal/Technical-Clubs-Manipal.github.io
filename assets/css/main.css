@@ -1790,7 +1790,7 @@ input, select, textarea {
 		header.major > p {
 			font-size: 0.7em;
 			font-weight: 500;
-			letter-spacing: 0.15em;
+			/*letter-spacing: 0.15em; */
 			margin-bottom: 0;
 			/*text-transform: uppercase; */
 		}
@@ -2368,7 +2368,7 @@ input, select, textarea {
 				border-bottom: 0;
 				display: inline-block;
 				font-size: 0.8em;
-				font-weight: 600;
+				font-weight: 500;
 				height: 1.5em;
 				line-height: 1.5em;
 				margin: 0 0.125em;
