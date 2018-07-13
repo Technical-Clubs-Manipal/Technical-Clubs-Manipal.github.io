@@ -2,11 +2,8 @@ New layout
 
 Issues:
 1. We need transparent png logos of all the clubs
-2. The clubs which do not have a website, maybe we can add the link to the facebook or remove the learn more button
-3. There is a div at the end of each page similar to letter by technical secretary on the home page which can be removed or something inspiring or something else can be added. I suggest remove it for now and later add something interesting
-6. One small tech pun or quote for the banner at the top at each page. 
-4. At the top of each page there should be a general discription with something motivating (it should be descriptive) the top box or that needs to be removed
-5. The home page needs description for each tile i.e. for tech clubs, student project and ie chapters. 
+2. Nmes of technical clubs in technicalclubs page are too big, messing up the responsiveness in mobile
+3. The heading still says technical clubs in MIT, then 3 types student projects, TECHNICAL CLUBS, student chapters. 
 
 Possibilities:
 1. If we figure out a backend we can add a form as well where people can post queries or messages
