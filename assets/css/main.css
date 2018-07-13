@@ -2807,7 +2807,7 @@ input, select, textarea {
 				opacity: 0;
 			}
 
-			.tiles article:nth-child(4n), .tiles article:nth-child(4n - 2) {
+			.tiles article:nth-child(4n - 1), .tiles article:nth-child(4n - 2) {
 				width: 60%;
 			}
 
@@ -3300,6 +3300,11 @@ input, select, textarea {
 				height: 2.75em;
 				line-height: 2.75em;
 			}
+
+			#header .logo span {
+				display: none;
+			}
+
 
 				#header .logo {
 					padding: 0 1em;
